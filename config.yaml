@@ -1,4 +1,4 @@
-baseURL: https://todogroup.org
+baseURL: https://todogroup.netlify.com
 enableRobotsTXT: true
 disableKinds:
 - RSS
