@@ -157,8 +157,9 @@ article {
   .edit-button {
     background-color: $color-primary;
     color: white;
-    padding: .3rem .6rem;
+    padding: .6rem;
     display: inline-block;
+    line-height: 100%;
 
     &:hover {
       text-decoration: none;
